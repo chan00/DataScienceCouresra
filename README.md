@@ -1,2 +1,2 @@
 # DataScienceCouresra
-JohnHopkinsUniversity
+John Hopkins University
